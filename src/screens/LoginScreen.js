@@ -1,5 +1,5 @@
-function App() {
+function LoginScreen() {
   return <>Trang Login</>;
 }
 
-export default App;
+export default LoginScreen;
